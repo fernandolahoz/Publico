@@ -1,0 +1,8 @@
+C:\Users\Fernando\source\repos\Calendario\obj\Debug\netcoreapp3.0\Calendario.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\Calendario\obj\Debug\netcoreapp3.0\Calendario.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\Calendario\obj\Debug\netcoreapp3.0\Calendario.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\Calendario\bin\Debug\netcoreapp3.0\Calendario.deps.json
+C:\Users\Fernando\source\repos\Calendario\bin\Debug\netcoreapp3.0\Calendario.dll
+C:\Users\Fernando\source\repos\Calendario\bin\Debug\netcoreapp3.0\Calendario.pdb
+C:\Users\Fernando\source\repos\Calendario\obj\Debug\netcoreapp3.0\Calendario.dll
+C:\Users\Fernando\source\repos\Calendario\obj\Debug\netcoreapp3.0\Calendario.pdb
